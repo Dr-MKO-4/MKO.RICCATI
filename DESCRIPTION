@@ -1,0 +1,12 @@
+Package: MKO.RICCATI
+Title:RESOUDRE UNE EQUATION DE RICCATI
+Version: 1.0
+Authors@R: 
+    person("MOUKOKO EKAMBI", "Georges Miguel", , "georgesmoukoko4@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "TP-SDIA-3-R"))
+Description: Packages doont la fonctio première est la resolution des equation de riccati par transformation en equation de bernouilli mais pouvant aussi calculer la fonction dérivée d'une fonction,resoudre une equation de bernoulli,verifier la continueté d'une fonction sur un domaine,vérifier sa dérivabilité, calculer sa limite, construire un domaine de validité pour un intervalle,  donner le domaine de validiter d'une fonction,vérifie si une fonction est de classe C1.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
